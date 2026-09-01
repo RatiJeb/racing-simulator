@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Project is a personal exercise to learn something new. It's a basic web 2D racing simulator game.
 
-Things you may want to cover:
+Installation prerequisites:
+ - Ruby 3.4.1
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Instructions:
+ - clone the repo
+ - $ bundle install
+ - $ rails db:prepare
+ - bin/dev
+ - enjoy :)
